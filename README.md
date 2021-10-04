@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Raglin
 - 👀 I’m interested in random tech
 - 🌱 I’m currently learning serverless
-- 💞️ I’m looking to collaborate on anything but javascript
+- 💞️ I’m looking to collaborate on anything but javascript...I joke. Javascript also 😊
 - 📫 How to reach me twitter, @i_am_raglin
 
 <!---
